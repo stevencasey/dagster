@@ -11,3 +11,4 @@ code contributions and issue reports.
   contributing
   Github <https://www.github.com/dagster-io/dagster/>
   StackOverflow <https://stackoverflow.com/questions/tagged/dagster>
+  Slack <https://dagster.slack.com>
